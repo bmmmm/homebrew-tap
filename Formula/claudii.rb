@@ -1,10 +1,10 @@
 class Claudii < Formula
   desc "Fast Claude Code aliases with live model status and session insights ♥"
   homepage "https://github.com/bmmmm/claudii"
-  url "https://github.com/bmmmm/claudii/archive/refs/tags/v0.9.0.tar.gz"
-  sha256 "fcac075de87f364e4ede31d09a36c832e3928c86a17d1a788e56d30e0cf82615"
+  url "https://github.com/bmmmm/claudii/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "d9b42a44db334b732aba1003161698700af914c2a04d4499b97cd76424df0c81"
   license "GPL-3.0-only"
-  version "0.9.0"
+  version "0.12.0"
 
   head "https://github.com/bmmmm/claudii.git", branch: "main"
 
